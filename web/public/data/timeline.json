@@ -1,0 +1,22 @@
+[
+  {
+    "generation": 1,
+    "year": 10,
+    "events": [
+      {
+        "id": "g0-extinction-0",
+        "year": 1,
+        "type": "extinction",
+        "importance": 8,
+        "title": "Ash Stalker became extinct",
+        "description": "The final population of Ash Stalker disappeared after resource pressure.",
+        "speciesIds": [
+          "sp-4"
+        ],
+        "regionIds": [],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
+  }
+]

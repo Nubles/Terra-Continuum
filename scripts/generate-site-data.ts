@@ -1,0 +1,1 @@
+import fs from 'node:fs'; import path from 'node:path'; const files=['current-world.json','timeline.json'];fs.mkdirSync('web/public/data',{recursive:true});for(const f of files)fs.copyFileSync(path.join('data',f),path.join('web/public/data',f));console.log('Dashboard data refreshed.');

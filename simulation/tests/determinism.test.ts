@@ -1,0 +1,1 @@
+import { describe,it,expect } from 'vitest'; import { createWorld } from '../generators/planet.js'; import { advance } from '../engine/evolve.js'; describe('simulation',()=>it('is deterministic for a seed and generation',()=>{const a=createWorld(42),b=createWorld(42);advance(a,10);advance(b,10);expect(a).toEqual(b)}));
