@@ -43,5 +43,25 @@
     "generation": 3,
     "year": 30,
     "events": []
+  },
+  {
+    "generation": 4,
+    "year": 40,
+    "events": [
+      {
+        "id": "g3-flood-2",
+        "year": 40,
+        "type": "flood",
+        "importance": 6,
+        "title": "flood at cell 82",
+        "description": "A deterministic flood altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          82
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
