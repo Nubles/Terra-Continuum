@@ -68,5 +68,10 @@
     "generation": 5,
     "year": 50,
     "events": []
+  },
+  {
+    "generation": 6,
+    "year": 60,
+    "events": []
   }
 ]
