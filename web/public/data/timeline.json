@@ -73,5 +73,39 @@
     "generation": 6,
     "year": 60,
     "events": []
+  },
+  {
+    "generation": 7,
+    "year": 70,
+    "events": [
+      {
+        "id": "g6-drought-3",
+        "year": 63,
+        "type": "drought",
+        "importance": 6,
+        "title": "drought at cell 301",
+        "description": "A deterministic drought altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          301
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      },
+      {
+        "id": "g6-drought-3",
+        "year": 70,
+        "type": "drought",
+        "importance": 6,
+        "title": "drought at cell 1877",
+        "description": "A deterministic drought altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1877
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
