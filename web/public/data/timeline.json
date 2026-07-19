@@ -169,5 +169,25 @@
         "metadata": {}
       }
     ]
+  },
+  {
+    "generation": 9,
+    "year": 90,
+    "events": [
+      {
+        "id": "g8-drought-9",
+        "year": 88,
+        "type": "drought",
+        "importance": 6,
+        "title": "drought at cell 473",
+        "description": "A deterministic drought altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          473
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
