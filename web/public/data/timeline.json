@@ -228,5 +228,25 @@
         "metadata": {}
       }
     ]
+  },
+  {
+    "generation": 12,
+    "year": 120,
+    "events": [
+      {
+        "id": "g11-cold-period-12",
+        "year": 114,
+        "type": "cold-period",
+        "importance": 6,
+        "title": "cold period at cell 525",
+        "description": "A deterministic cold-period altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          525
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
