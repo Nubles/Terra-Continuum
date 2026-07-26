@@ -292,5 +292,53 @@
     "generation": 15,
     "year": 150,
     "events": []
+  },
+  {
+    "generation": 16,
+    "year": 160,
+    "events": [
+      {
+        "id": "g15-heatwave-15",
+        "year": 151,
+        "type": "heatwave",
+        "importance": 6,
+        "title": "heatwave at cell 1019",
+        "description": "A deterministic heatwave altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1019
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      },
+      {
+        "id": "g15-heatwave-15",
+        "year": 156,
+        "type": "heatwave",
+        "importance": 6,
+        "title": "heatwave at cell 1287",
+        "description": "A deterministic heatwave altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1287
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      },
+      {
+        "id": "g15-flood-15",
+        "year": 160,
+        "type": "flood",
+        "importance": 6,
+        "title": "flood at cell 331",
+        "description": "A deterministic flood altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          331
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
