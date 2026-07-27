@@ -340,5 +340,39 @@
         "metadata": {}
       }
     ]
+  },
+  {
+    "generation": 17,
+    "year": 170,
+    "events": [
+      {
+        "id": "g16-wildfire-18",
+        "year": 163,
+        "type": "wildfire",
+        "importance": 6,
+        "title": "wildfire at cell 1071",
+        "description": "A deterministic wildfire altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1071
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      },
+      {
+        "id": "g16-heatwave-18",
+        "year": 165,
+        "type": "heatwave",
+        "importance": 6,
+        "title": "heatwave at cell 1911",
+        "description": "A deterministic heatwave altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1911
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
