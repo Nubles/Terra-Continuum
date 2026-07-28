@@ -374,5 +374,39 @@
         "metadata": {}
       }
     ]
+  },
+  {
+    "generation": 18,
+    "year": 180,
+    "events": [
+      {
+        "id": "g17-heatwave-20",
+        "year": 174,
+        "type": "heatwave",
+        "importance": 6,
+        "title": "heatwave at cell 1333",
+        "description": "A deterministic heatwave altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1333
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      },
+      {
+        "id": "g17-heatwave-20",
+        "year": 178,
+        "type": "heatwave",
+        "importance": 6,
+        "title": "heatwave at cell 1937",
+        "description": "A deterministic heatwave altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1937
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
