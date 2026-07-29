@@ -408,5 +408,25 @@
         "metadata": {}
       }
     ]
+  },
+  {
+    "generation": 19,
+    "year": 190,
+    "events": [
+      {
+        "id": "g18-heatwave-22",
+        "year": 185,
+        "type": "heatwave",
+        "importance": 6,
+        "title": "heatwave at cell 1384",
+        "description": "A deterministic heatwave altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1384
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
