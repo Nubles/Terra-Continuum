@@ -453,5 +453,25 @@
         "metadata": {}
       }
     ]
+  },
+  {
+    "generation": 22,
+    "year": 220,
+    "events": [
+      {
+        "id": "g21-wildfire-24",
+        "year": 220,
+        "type": "wildfire",
+        "importance": 6,
+        "title": "wildfire at cell 1728",
+        "description": "A deterministic wildfire altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1728
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
