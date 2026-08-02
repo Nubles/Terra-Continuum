@@ -473,5 +473,25 @@
         "metadata": {}
       }
     ]
+  },
+  {
+    "generation": 23,
+    "year": 230,
+    "events": [
+      {
+        "id": "g22-drought-25",
+        "year": 221,
+        "type": "drought",
+        "importance": 6,
+        "title": "drought at cell 470",
+        "description": "A deterministic drought altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          470
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
