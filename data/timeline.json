@@ -518,5 +518,39 @@
     "generation": 25,
     "year": 250,
     "events": []
+  },
+  {
+    "generation": 26,
+    "year": 260,
+    "events": [
+      {
+        "id": "g25-drought-27",
+        "year": 255,
+        "type": "drought",
+        "importance": 6,
+        "title": "drought at cell 1192",
+        "description": "A deterministic drought altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1192
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      },
+      {
+        "id": "g25-cold-period-27",
+        "year": 259,
+        "type": "cold-period",
+        "importance": 6,
+        "title": "cold period at cell 700",
+        "description": "A deterministic cold-period altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          700
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
