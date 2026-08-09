@@ -582,5 +582,39 @@
         "metadata": {}
       }
     ]
+  },
+  {
+    "generation": 30,
+    "year": 300,
+    "events": [
+      {
+        "id": "g29-wildfire-30",
+        "year": 294,
+        "type": "wildfire",
+        "importance": 6,
+        "title": "wildfire at cell 390",
+        "description": "A deterministic wildfire altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          390
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      },
+      {
+        "id": "g29-cold-period-30",
+        "year": 297,
+        "type": "cold-period",
+        "importance": 6,
+        "title": "cold period at cell 1968",
+        "description": "A deterministic cold-period altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1968
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
