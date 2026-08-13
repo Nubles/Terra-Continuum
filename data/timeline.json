@@ -646,5 +646,25 @@
     "generation": 33,
     "year": 330,
     "events": []
+  },
+  {
+    "generation": 34,
+    "year": 340,
+    "events": [
+      {
+        "id": "g33-wildfire-33",
+        "year": 333,
+        "type": "wildfire",
+        "importance": 6,
+        "title": "wildfire at cell 292",
+        "description": "A deterministic wildfire altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          292
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
