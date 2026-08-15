@@ -686,5 +686,39 @@
         "metadata": {}
       }
     ]
+  },
+  {
+    "generation": 36,
+    "year": 360,
+    "events": [
+      {
+        "id": "g35-flood-35",
+        "year": 358,
+        "type": "flood",
+        "importance": 6,
+        "title": "flood at cell 788",
+        "description": "A deterministic flood altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          788
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      },
+      {
+        "id": "g35-heatwave-35",
+        "year": 359,
+        "type": "heatwave",
+        "importance": 6,
+        "title": "heatwave at cell 1205",
+        "description": "A deterministic heatwave altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1205
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
