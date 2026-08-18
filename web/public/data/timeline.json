@@ -730,5 +730,25 @@
     "generation": 38,
     "year": 380,
     "events": []
+  },
+  {
+    "generation": 39,
+    "year": 390,
+    "events": [
+      {
+        "id": "g38-cold-period-37",
+        "year": 389,
+        "type": "cold-period",
+        "importance": 6,
+        "title": "cold period at cell 1889",
+        "description": "A deterministic cold-period altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1889
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
