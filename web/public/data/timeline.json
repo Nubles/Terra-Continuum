@@ -790,5 +790,25 @@
         "metadata": {}
       }
     ]
+  },
+  {
+    "generation": 42,
+    "year": 420,
+    "events": [
+      {
+        "id": "g41-cold-period-40",
+        "year": 414,
+        "type": "cold-period",
+        "importance": 6,
+        "title": "cold period at cell 1706",
+        "description": "A deterministic cold-period altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1706
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
