@@ -870,5 +870,39 @@
         "metadata": {}
       }
     ]
+  },
+  {
+    "generation": 46,
+    "year": 460,
+    "events": [
+      {
+        "id": "g45-wildfire-44",
+        "year": 451,
+        "type": "wildfire",
+        "importance": 6,
+        "title": "wildfire at cell 1467",
+        "description": "A deterministic wildfire altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1467
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      },
+      {
+        "id": "g45-drought-44",
+        "year": 457,
+        "type": "drought",
+        "importance": 6,
+        "title": "drought at cell 723",
+        "description": "A deterministic drought altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          723
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
