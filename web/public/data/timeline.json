@@ -904,5 +904,25 @@
         "metadata": {}
       }
     ]
+  },
+  {
+    "generation": 47,
+    "year": 470,
+    "events": [
+      {
+        "id": "g46-wildfire-46",
+        "year": 465,
+        "type": "wildfire",
+        "importance": 6,
+        "title": "wildfire at cell 979",
+        "description": "A deterministic wildfire altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          979
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
