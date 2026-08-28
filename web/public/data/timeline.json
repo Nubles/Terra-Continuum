@@ -958,5 +958,25 @@
         "metadata": {}
       }
     ]
+  },
+  {
+    "generation": 49,
+    "year": 490,
+    "events": [
+      {
+        "id": "g48-drought-49",
+        "year": 483,
+        "type": "drought",
+        "importance": 6,
+        "title": "drought at cell 668",
+        "description": "A deterministic drought altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          668
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
