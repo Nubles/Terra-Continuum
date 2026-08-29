@@ -978,5 +978,25 @@
         "metadata": {}
       }
     ]
+  },
+  {
+    "generation": 50,
+    "year": 500,
+    "events": [
+      {
+        "id": "g49-flood-50",
+        "year": 493,
+        "type": "flood",
+        "importance": 6,
+        "title": "flood at cell 819",
+        "description": "A deterministic flood altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          819
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
