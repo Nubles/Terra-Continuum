@@ -1048,5 +1048,25 @@
     "generation": 54,
     "year": 540,
     "events": []
+  },
+  {
+    "generation": 55,
+    "year": 550,
+    "events": [
+      {
+        "id": "g54-cold-period-53",
+        "year": 545,
+        "type": "cold-period",
+        "importance": 6,
+        "title": "cold period at cell 1652",
+        "description": "A deterministic cold-period altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1652
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
