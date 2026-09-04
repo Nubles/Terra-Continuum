@@ -1068,5 +1068,25 @@
         "metadata": {}
       }
     ]
+  },
+  {
+    "generation": 56,
+    "year": 560,
+    "events": [
+      {
+        "id": "g55-heatwave-54",
+        "year": 551,
+        "type": "heatwave",
+        "importance": 6,
+        "title": "heatwave at cell 661",
+        "description": "A deterministic heatwave altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          661
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
