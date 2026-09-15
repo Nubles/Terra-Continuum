@@ -1183,5 +1183,39 @@
     "generation": 66,
     "year": 660,
     "events": []
+  },
+  {
+    "generation": 67,
+    "year": 670,
+    "events": [
+      {
+        "id": "g66-drought-58",
+        "year": 664,
+        "type": "drought",
+        "importance": 6,
+        "title": "drought at cell 1091",
+        "description": "A deterministic drought altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1091
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      },
+      {
+        "id": "g66-flood-58",
+        "year": 665,
+        "type": "flood",
+        "importance": 6,
+        "title": "flood at cell 275",
+        "description": "A deterministic flood altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          275
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
