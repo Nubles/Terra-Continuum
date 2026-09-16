@@ -1217,5 +1217,39 @@
         "metadata": {}
       }
     ]
+  },
+  {
+    "generation": 68,
+    "year": 680,
+    "events": [
+      {
+        "id": "g67-cold-period-60",
+        "year": 672,
+        "type": "cold-period",
+        "importance": 6,
+        "title": "cold period at cell 983",
+        "description": "A deterministic cold-period altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          983
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      },
+      {
+        "id": "g67-cold-period-60",
+        "year": 675,
+        "type": "cold-period",
+        "importance": 6,
+        "title": "cold period at cell 1330",
+        "description": "A deterministic cold-period altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1330
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
