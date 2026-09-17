@@ -1251,5 +1251,25 @@
         "metadata": {}
       }
     ]
+  },
+  {
+    "generation": 69,
+    "year": 690,
+    "events": [
+      {
+        "id": "g68-drought-62",
+        "year": 681,
+        "type": "drought",
+        "importance": 6,
+        "title": "drought at cell 1507",
+        "description": "A deterministic drought altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1507
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
