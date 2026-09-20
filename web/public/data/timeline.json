@@ -1296,5 +1296,53 @@
     "generation": 71,
     "year": 710,
     "events": []
+  },
+  {
+    "generation": 72,
+    "year": 720,
+    "events": [
+      {
+        "id": "g71-flood-64",
+        "year": 713,
+        "type": "flood",
+        "importance": 6,
+        "title": "flood at cell 122",
+        "description": "A deterministic flood altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          122
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      },
+      {
+        "id": "g71-wildfire-64",
+        "year": 717,
+        "type": "wildfire",
+        "importance": 6,
+        "title": "wildfire at cell 756",
+        "description": "A deterministic wildfire altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          756
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      },
+      {
+        "id": "g71-flood-64",
+        "year": 719,
+        "type": "flood",
+        "importance": 6,
+        "title": "flood at cell 882",
+        "description": "A deterministic flood altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          882
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
