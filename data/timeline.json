@@ -1354,5 +1354,39 @@
     "generation": 74,
     "year": 740,
     "events": []
+  },
+  {
+    "generation": 75,
+    "year": 750,
+    "events": [
+      {
+        "id": "g74-wildfire-67",
+        "year": 744,
+        "type": "wildfire",
+        "importance": 6,
+        "title": "wildfire at cell 200",
+        "description": "A deterministic wildfire altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          200
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      },
+      {
+        "id": "g74-flood-67",
+        "year": 750,
+        "type": "flood",
+        "importance": 6,
+        "title": "flood at cell 515",
+        "description": "A deterministic flood altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          515
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
