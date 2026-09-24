@@ -1388,5 +1388,39 @@
         "metadata": {}
       }
     ]
+  },
+  {
+    "generation": 76,
+    "year": 760,
+    "events": [
+      {
+        "id": "g75-cold-period-69",
+        "year": 753,
+        "type": "cold-period",
+        "importance": 6,
+        "title": "cold period at cell 1015",
+        "description": "A deterministic cold-period altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1015
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      },
+      {
+        "id": "g75-heatwave-69",
+        "year": 755,
+        "type": "heatwave",
+        "importance": 6,
+        "title": "heatwave at cell 1580",
+        "description": "A deterministic heatwave altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1580
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
