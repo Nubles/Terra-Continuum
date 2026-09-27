@@ -1432,5 +1432,25 @@
     "generation": 78,
     "year": 780,
     "events": []
+  },
+  {
+    "generation": 79,
+    "year": 790,
+    "events": [
+      {
+        "id": "g78-cold-period-71",
+        "year": 788,
+        "type": "cold-period",
+        "importance": 6,
+        "title": "cold period at cell 81",
+        "description": "A deterministic cold-period altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          81
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
