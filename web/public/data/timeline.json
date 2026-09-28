@@ -1452,5 +1452,39 @@
         "metadata": {}
       }
     ]
+  },
+  {
+    "generation": 80,
+    "year": 800,
+    "events": [
+      {
+        "id": "g79-drought-72",
+        "year": 792,
+        "type": "drought",
+        "importance": 6,
+        "title": "drought at cell 1319",
+        "description": "A deterministic drought altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1319
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      },
+      {
+        "id": "g79-drought-72",
+        "year": 795,
+        "type": "drought",
+        "importance": 6,
+        "title": "drought at cell 11",
+        "description": "A deterministic drought altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          11
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
