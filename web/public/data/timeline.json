@@ -1506,5 +1506,53 @@
         "metadata": {}
       }
     ]
+  },
+  {
+    "generation": 82,
+    "year": 820,
+    "events": [
+      {
+        "id": "g81-cold-period-75",
+        "year": 811,
+        "type": "cold-period",
+        "importance": 6,
+        "title": "cold period at cell 1168",
+        "description": "A deterministic cold-period altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1168
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      },
+      {
+        "id": "g81-flood-75",
+        "year": 817,
+        "type": "flood",
+        "importance": 6,
+        "title": "flood at cell 1351",
+        "description": "A deterministic flood altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1351
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      },
+      {
+        "id": "g81-heatwave-75",
+        "year": 819,
+        "type": "heatwave",
+        "importance": 6,
+        "title": "heatwave at cell 122",
+        "description": "A deterministic heatwave altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          122
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
