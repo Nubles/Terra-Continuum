@@ -1554,5 +1554,39 @@
         "metadata": {}
       }
     ]
+  },
+  {
+    "generation": 83,
+    "year": 830,
+    "events": [
+      {
+        "id": "g82-wildfire-78",
+        "year": 822,
+        "type": "wildfire",
+        "importance": 6,
+        "title": "wildfire at cell 2000",
+        "description": "A deterministic wildfire altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          2000
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      },
+      {
+        "id": "g82-wildfire-78",
+        "year": 824,
+        "type": "wildfire",
+        "importance": 6,
+        "title": "wildfire at cell 1913",
+        "description": "A deterministic wildfire altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1913
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
