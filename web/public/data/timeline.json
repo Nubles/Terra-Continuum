@@ -1642,5 +1642,25 @@
         "metadata": {}
       }
     ]
+  },
+  {
+    "generation": 86,
+    "year": 860,
+    "events": [
+      {
+        "id": "g85-drought-83",
+        "year": 860,
+        "type": "drought",
+        "importance": 6,
+        "title": "drought at cell 1901",
+        "description": "A deterministic drought altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1901
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
