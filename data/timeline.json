@@ -1677,5 +1677,25 @@
     "generation": 89,
     "year": 890,
     "events": []
+  },
+  {
+    "generation": 90,
+    "year": 900,
+    "events": [
+      {
+        "id": "g89-wildfire-84",
+        "year": 900,
+        "type": "wildfire",
+        "importance": 6,
+        "title": "wildfire at cell 1853",
+        "description": "A deterministic wildfire altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1853
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
