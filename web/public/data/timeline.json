@@ -1702,5 +1702,25 @@
     "generation": 91,
     "year": 910,
     "events": []
+  },
+  {
+    "generation": 92,
+    "year": 920,
+    "events": [
+      {
+        "id": "g91-drought-85",
+        "year": 913,
+        "type": "drought",
+        "importance": 6,
+        "title": "drought at cell 55",
+        "description": "A deterministic drought altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          55
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
