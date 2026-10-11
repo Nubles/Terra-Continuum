@@ -1722,5 +1722,25 @@
         "metadata": {}
       }
     ]
+  },
+  {
+    "generation": 93,
+    "year": 930,
+    "events": [
+      {
+        "id": "g92-heatwave-86",
+        "year": 925,
+        "type": "heatwave",
+        "importance": 6,
+        "title": "heatwave at cell 1938",
+        "description": "A deterministic heatwave altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1938
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
