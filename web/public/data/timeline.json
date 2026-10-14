@@ -1752,5 +1752,39 @@
     "generation": 95,
     "year": 950,
     "events": []
+  },
+  {
+    "generation": 96,
+    "year": 960,
+    "events": [
+      {
+        "id": "g95-flood-87",
+        "year": 952,
+        "type": "flood",
+        "importance": 6,
+        "title": "flood at cell 1424",
+        "description": "A deterministic flood altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1424
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      },
+      {
+        "id": "g95-flood-87",
+        "year": 959,
+        "type": "flood",
+        "importance": 6,
+        "title": "flood at cell 422",
+        "description": "A deterministic flood altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          422
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
