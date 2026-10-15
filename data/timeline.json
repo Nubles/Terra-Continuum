@@ -1786,5 +1786,39 @@
         "metadata": {}
       }
     ]
+  },
+  {
+    "generation": 97,
+    "year": 970,
+    "events": [
+      {
+        "id": "g96-drought-89",
+        "year": 963,
+        "type": "drought",
+        "importance": 6,
+        "title": "drought at cell 1611",
+        "description": "A deterministic drought altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1611
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      },
+      {
+        "id": "g96-heatwave-89",
+        "year": 968,
+        "type": "heatwave",
+        "importance": 6,
+        "title": "heatwave at cell 452",
+        "description": "A deterministic heatwave altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          452
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
