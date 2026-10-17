@@ -1825,5 +1825,25 @@
     "generation": 98,
     "year": 980,
     "events": []
+  },
+  {
+    "generation": 99,
+    "year": 990,
+    "events": [
+      {
+        "id": "g98-heatwave-91",
+        "year": 987,
+        "type": "heatwave",
+        "importance": 6,
+        "title": "heatwave at cell 1075",
+        "description": "A deterministic heatwave altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1075
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
