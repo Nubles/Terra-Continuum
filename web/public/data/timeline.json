@@ -1845,5 +1845,25 @@
         "metadata": {}
       }
     ]
+  },
+  {
+    "generation": 100,
+    "year": 1000,
+    "events": [
+      {
+        "id": "g99-drought-92",
+        "year": 995,
+        "type": "drought",
+        "importance": 6,
+        "title": "drought at cell 753",
+        "description": "A deterministic drought altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          753
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]

@@ -1,0 +1,26 @@
+{
+  "year": 1000,
+  "generation": 100,
+  "species": [
+    {
+      "id": "sp-1",
+      "population": 110,
+      "extinctionYear": null
+    },
+    {
+      "id": "sp-2",
+      "population": 219,
+      "extinctionYear": null
+    },
+    {
+      "id": "sp-3",
+      "population": 92,
+      "extinctionYear": null
+    },
+    {
+      "id": "sp-4",
+      "population": 0,
+      "extinctionYear": 1
+    }
+  ]
+}
