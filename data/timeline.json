@@ -1,25 +1,5 @@
 [
   {
-    "generation": 1,
-    "year": 10,
-    "events": [
-      {
-        "id": "g0-extinction-0",
-        "year": 1,
-        "type": "extinction",
-        "importance": 8,
-        "title": "Ash Stalker became extinct",
-        "description": "The final population of Ash Stalker disappeared after resource pressure.",
-        "speciesIds": [
-          "sp-4"
-        ],
-        "regionIds": [],
-        "civilisationIds": [],
-        "metadata": {}
-      }
-    ]
-  },
-  {
     "generation": 2,
     "year": 20,
     "events": [
@@ -1860,6 +1840,26 @@
         "speciesIds": [],
         "regionIds": [
           753
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "generation": 101,
+    "year": 1010,
+    "events": [
+      {
+        "id": "g100-cold-period-93",
+        "year": 1003,
+        "type": "cold-period",
+        "importance": 6,
+        "title": "cold period at cell 904",
+        "description": "A deterministic cold-period altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          904
         ],
         "civilisationIds": [],
         "metadata": {}
