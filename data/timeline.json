@@ -1,10 +1,5 @@
 [
   {
-    "generation": 3,
-    "year": 30,
-    "events": []
-  },
-  {
     "generation": 4,
     "year": 40,
     "events": [
@@ -1860,6 +1855,40 @@
         "speciesIds": [],
         "regionIds": [
           2000
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "generation": 103,
+    "year": 1030,
+    "events": [
+      {
+        "id": "g102-wildfire-95",
+        "year": 1025,
+        "type": "wildfire",
+        "importance": 6,
+        "title": "wildfire at cell 1763",
+        "description": "A deterministic wildfire altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1763
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      },
+      {
+        "id": "g102-drought-95",
+        "year": 1027,
+        "type": "drought",
+        "importance": 6,
+        "title": "drought at cell 695",
+        "description": "A deterministic drought altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          695
         ],
         "civilisationIds": [],
         "metadata": {}
