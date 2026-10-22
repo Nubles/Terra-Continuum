@@ -1,25 +1,5 @@
 [
   {
-    "generation": 4,
-    "year": 40,
-    "events": [
-      {
-        "id": "g3-flood-2",
-        "year": 40,
-        "type": "flood",
-        "importance": 6,
-        "title": "flood at cell 82",
-        "description": "A deterministic flood altered local climate and resources.",
-        "speciesIds": [],
-        "regionIds": [
-          82
-        ],
-        "civilisationIds": [],
-        "metadata": {}
-      }
-    ]
-  },
-  {
     "generation": 5,
     "year": 50,
     "events": []
@@ -1889,6 +1869,40 @@
         "speciesIds": [],
         "regionIds": [
           695
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "generation": 104,
+    "year": 1040,
+    "events": [
+      {
+        "id": "g103-cold-period-97",
+        "year": 1038,
+        "type": "cold-period",
+        "importance": 6,
+        "title": "cold period at cell 427",
+        "description": "A deterministic cold-period altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          427
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      },
+      {
+        "id": "g103-cold-period-97",
+        "year": 1039,
+        "type": "cold-period",
+        "importance": 6,
+        "title": "cold period at cell 1343",
+        "description": "A deterministic cold-period altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1343
         ],
         "civilisationIds": [],
         "metadata": {}
