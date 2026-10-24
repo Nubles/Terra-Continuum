@@ -1,10 +1,5 @@
 [
   {
-    "generation": 6,
-    "year": 60,
-    "events": []
-  },
-  {
     "generation": 7,
     "year": 70,
     "events": [
@@ -1908,5 +1903,25 @@
     "generation": 105,
     "year": 1050,
     "events": []
+  },
+  {
+    "generation": 106,
+    "year": 1060,
+    "events": [
+      {
+        "id": "g105-wildfire-99",
+        "year": 1059,
+        "type": "wildfire",
+        "importance": 6,
+        "title": "wildfire at cell 568",
+        "description": "A deterministic wildfire altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          568
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
