@@ -1,10 +1,5 @@
 [
   {
-    "generation": 14,
-    "year": 140,
-    "events": []
-  },
-  {
     "generation": 15,
     "year": 150,
     "events": []
@@ -1818,6 +1813,26 @@
         "speciesIds": [],
         "regionIds": [
           1649
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "generation": 114,
+    "year": 1140,
+    "events": [
+      {
+        "id": "g113-cold-period-105",
+        "year": 1136,
+        "type": "cold-period",
+        "importance": 6,
+        "title": "cold period at cell 1685",
+        "description": "A deterministic cold-period altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1685
         ],
         "civilisationIds": [],
         "metadata": {}
