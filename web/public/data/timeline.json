@@ -1,10 +1,5 @@
 [
   {
-    "generation": 20,
-    "year": 200,
-    "events": []
-  },
-  {
     "generation": 21,
     "year": 210,
     "events": [
@@ -1762,6 +1757,26 @@
         "speciesIds": [],
         "regionIds": [
           94
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "generation": 120,
+    "year": 1200,
+    "events": [
+      {
+        "id": "g119-cold-period-109",
+        "year": 1200,
+        "type": "cold-period",
+        "importance": 6,
+        "title": "cold period at cell 1927",
+        "description": "A deterministic cold-period altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1927
         ],
         "civilisationIds": [],
         "metadata": {}
