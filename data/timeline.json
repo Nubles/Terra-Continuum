@@ -1,25 +1,5 @@
 [
   {
-    "generation": 23,
-    "year": 230,
-    "events": [
-      {
-        "id": "g22-drought-25",
-        "year": 221,
-        "type": "drought",
-        "importance": 6,
-        "title": "drought at cell 470",
-        "description": "A deterministic drought altered local climate and resources.",
-        "speciesIds": [],
-        "regionIds": [
-          470
-        ],
-        "civilisationIds": [],
-        "metadata": {}
-      }
-    ]
-  },
-  {
     "generation": 24,
     "year": 240,
     "events": [
@@ -1762,6 +1742,26 @@
         "speciesIds": [],
         "regionIds": [
           1456
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "generation": 123,
+    "year": 1230,
+    "events": [
+      {
+        "id": "g122-heatwave-111",
+        "year": 1226,
+        "type": "heatwave",
+        "importance": 6,
+        "title": "heatwave at cell 118",
+        "description": "A deterministic heatwave altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          118
         ],
         "civilisationIds": [],
         "metadata": {}
