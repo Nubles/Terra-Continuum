@@ -1,10 +1,5 @@
 [
   {
-    "generation": 37,
-    "year": 370,
-    "events": []
-  },
-  {
     "generation": 38,
     "year": 380,
     "events": []
@@ -1766,5 +1761,39 @@
     "generation": 136,
     "year": 1360,
     "events": []
+  },
+  {
+    "generation": 137,
+    "year": 1370,
+    "events": [
+      {
+        "id": "g136-drought-123",
+        "year": 1361,
+        "type": "drought",
+        "importance": 6,
+        "title": "drought at cell 34",
+        "description": "A deterministic drought altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          34
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      },
+      {
+        "id": "g136-cold-period-123",
+        "year": 1370,
+        "type": "cold-period",
+        "importance": 6,
+        "title": "cold period at cell 455",
+        "description": "A deterministic cold-period altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          455
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
