@@ -1,25 +1,5 @@
 [
   {
-    "generation": 39,
-    "year": 390,
-    "events": [
-      {
-        "id": "g38-cold-period-37",
-        "year": 389,
-        "type": "cold-period",
-        "importance": 6,
-        "title": "cold period at cell 1889",
-        "description": "A deterministic cold-period altered local climate and resources.",
-        "speciesIds": [],
-        "regionIds": [
-          1889
-        ],
-        "civilisationIds": [],
-        "metadata": {}
-      }
-    ]
-  },
-  {
     "generation": 40,
     "year": 400,
     "events": [
@@ -1795,5 +1775,39 @@
     "generation": 138,
     "year": 1380,
     "events": []
+  },
+  {
+    "generation": 139,
+    "year": 1390,
+    "events": [
+      {
+        "id": "g138-wildfire-125",
+        "year": 1383,
+        "type": "wildfire",
+        "importance": 6,
+        "title": "wildfire at cell 1540",
+        "description": "A deterministic wildfire altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1540
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      },
+      {
+        "id": "g138-flood-125",
+        "year": 1390,
+        "type": "flood",
+        "importance": 6,
+        "title": "flood at cell 751",
+        "description": "A deterministic flood altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          751
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
