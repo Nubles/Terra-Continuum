@@ -1,25 +1,5 @@
 [
   {
-    "generation": 41,
-    "year": 410,
-    "events": [
-      {
-        "id": "g40-drought-39",
-        "year": 410,
-        "type": "drought",
-        "importance": 6,
-        "title": "drought at cell 915",
-        "description": "A deterministic drought altered local climate and resources.",
-        "speciesIds": [],
-        "regionIds": [
-          915
-        ],
-        "civilisationIds": [],
-        "metadata": {}
-      }
-    ]
-  },
-  {
     "generation": 42,
     "year": 420,
     "events": [
@@ -1794,5 +1774,39 @@
     "generation": 140,
     "year": 1400,
     "events": []
+  },
+  {
+    "generation": 141,
+    "year": 1410,
+    "events": [
+      {
+        "id": "g140-wildfire-127",
+        "year": 1406,
+        "type": "wildfire",
+        "importance": 6,
+        "title": "wildfire at cell 1421",
+        "description": "A deterministic wildfire altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1421
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      },
+      {
+        "id": "g140-heatwave-127",
+        "year": 1407,
+        "type": "heatwave",
+        "importance": 6,
+        "title": "heatwave at cell 1753",
+        "description": "A deterministic heatwave altered local climate and resources.",
+        "speciesIds": [],
+        "regionIds": [
+          1753
+        ],
+        "civilisationIds": [],
+        "metadata": {}
+      }
+    ]
   }
 ]
